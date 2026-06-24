@@ -156,7 +156,7 @@ body{font-family:'Segoe UI',sans-serif;background:#f0f0f0;color:var(--dk)}
 <div class="toast" id="toast"></div>
 
 <script>
-var SHEETS_URL = 'https://script.google.com/macros/s/AKfycbx3SRfa3Mryc4DDsvKdW3NZRUcUk9P73oTjgULyq4-mxqNote4yeuGp9v7pSR-Yma8n/exec';
+var SHEETS_URL = 'https://script.google.com/macros/s/AKfycbyuLudU9Fj9Sj1jpxEQ-KuZ9b7PaWijHlYJtMdkCC-gUIlwEUZfQcoYf24bHvNoM--b/exec';
 var CRED = {cajero:'caja2026', admin:'zenithko2026'};
 var pedTimer;
 var cart = [];
